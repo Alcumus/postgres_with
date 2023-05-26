@@ -15,7 +15,7 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = PostgresWith::VERSION
 
-  gem.add_dependency 'activerecord', '>= 6.0'
+  gem.add_dependency 'activerecord', '>= 6.1'
 
   gem.add_development_dependency 'pg', '>= 0.13'
 end
