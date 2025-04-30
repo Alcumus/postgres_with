@@ -1,6 +1,7 @@
 # PostgresWith
 
 Adds CTEs for Postgres
+Adds support for Rails 7.0
 
 ## Usage
 
